@@ -1,2 +1,4 @@
 # json-server
-Fake Online REST Server
+A fake online REST server
+
+By https://github.com/typicode/json-server
